@@ -1,9 +1,8 @@
 const CONFIG = {
     introTitle: 'Hello NgocDieu Cute!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introDesc: `Anh có câu hỏi này muốn
+    hỏi NgocDieu nè !! Trả Lời thật nhaaaa 
+    ❤❤❤❤❤ `,
     btnIntro: 'hihi',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
